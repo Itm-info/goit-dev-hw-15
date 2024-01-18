@@ -28,6 +28,3 @@ jobs:
       run: chmod +x ./gradlew
     - name: Execute Gradle build
       run: ./gradlew build
-
- # ;;  //-name: Execute Tests
-# ;;//      run: ./gradlew test
